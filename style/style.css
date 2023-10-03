@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+#apresenta{
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#apresenta h1{
+    padding-top: 20px;
+    padding-left: 7%;
+    padding-bottom: 0px;
+    font-size: 5vmax;
+    margin: 0px;
+    border: 0px;
+    color: rgb(35, 112, 112);
+}
+
+#apresenta p{
+    padding-top: 3%;
+    position: relative;
+    padding-left: 7%;
+    padding-top: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+h4{
+    font-size: 3vmax;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 7%;
+    padding-top: 0px;
+    margin: 0px;
+    border: 3px;
+    border-color:rgb(35, 112, 112); 
+}
+
+#artigos{    
+        padding-top: 5%;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-left: 7%;
+        padding-top: 0px;
+        margin: 0px;
+        border: 3px;
+        border-color: color: rgb(35, 112, 112); 
+    
+}
